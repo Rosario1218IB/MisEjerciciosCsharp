@@ -4,3 +4,6 @@ C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Activid
 C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Arreglos\Arreglos\Arreglos\obj\Debug\Arreglos.csprojResolveAssemblyReference.cache
 C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Arreglos\Arreglos\Arreglos\obj\Debug\Arreglos.exe
 C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Arreglos\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
+C:\Users\SOPORTE\Desktop\Rosario_ADSI-2020\InstructorJesusDavidCalderon\Actividades\Arreglos\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\SOPORTE\Desktop\Rosario_ADSI-2020\InstructorJesusDavidCalderon\Actividades\Arreglos\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\SOPORTE\Desktop\Rosario_ADSI-2020\InstructorJesusDavidCalderon\Actividades\Arreglos\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
