@@ -9,7 +9,7 @@
             int resultado = 0;
             int opc = 0;
             int opUsuario = 0;
-        string [] operaciones = new string[5];
+            string [] operaciones = new string[5];
         operaciones[0] = "Suma";
         operaciones[1] = "Resta";
         operaciones[2] = "Multiplicacion";
@@ -60,7 +60,7 @@
 
             }
 
-            Console.WriteLine(" El resultado es =" + resultado);
+            Console.WriteLine(" El resultado de la opreracion es: " + resultado);
             Console.WriteLine(" Desea hacer una Operacion Y/N ");
             respuesta = Console.ReadLine();
         }
